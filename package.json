@@ -1,0 +1,16 @@
+{
+	"name" : "com.pitgan.screenshake",
+	"version" : "0.0.0",
+	"displayName" : "ScreenShake",
+	"description" : "Screen shake script for the main camera",
+	"unity" : "2018.3",
+	"unityRelease" : "3f1",
+	"keywords" : [
+		"screenshake",
+		"screen",
+		"shake"
+	],
+	"author" : {
+		"name" : "pitgan"
+	}
+}
